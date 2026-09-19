@@ -1,0 +1,20 @@
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Archives volumineuses
+data/*.zip
+
+# Fichiers système
+.DS_Store
+Thumbs.db
